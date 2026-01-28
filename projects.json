@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Hybrid Data Lake Migration",
+      "description": "Migrated a legacy SQL Server ETL stack to a hybrid AWS data lake using PySpark and Airflow orchestration.",
+      "impact": "Reduced pipeline failures by 60% and increased data availability by 50%.",
+      "stack": ["AWS", "PySpark", "Airflow", "EMR"]
+    },
+    {
+      "title": "Real-Time Streaming Analytics Platform",
+      "description": "Designed and deployed a real-time ingestion pipeline processing JSON events into Delta Lake with sub-5-minute refresh intervals.",
+      "impact": "Enabled near real-time analytics for business stakeholders.",
+      "stack": ["Kafka", "Spark Streaming", "Delta Lake", "Docker"]
+    },
+    {
+      "title": "Netflix Data Insights Dashboard",
+      "description": "Built an automated analytics pipeline feeding a Tableau dashboard to surface content-trend insights across Netflix’s catalog.",
+      "impact": "Reduced manual analysis time by 40% through automated ETL.",
+      "stack": ["Python", "Pandas", "AWS S3", "Tableau"]
+    }
+  ]
+  
